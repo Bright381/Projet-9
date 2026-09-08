@@ -1,0 +1,11 @@
+.venv/
+
+fruits/
+aws/
+img/
+results/
+tmp/
+*.zip
+P8_*
+notebook_cloud_old.ipynb
+.DS*
