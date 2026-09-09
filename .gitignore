@@ -3,7 +3,7 @@
 fruits/
 aws/
 img/
-results/
+# results/
 tmp/
 *.zip
 P8_*
